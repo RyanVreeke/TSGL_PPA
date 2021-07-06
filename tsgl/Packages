@@ -12,3 +12,17 @@ Section: libs
 Priority: optional
 Description: A Thread-Safe Graphics Library from https://github.com/Calvin-CS/TSGL/
 
+Package: tsgl-examples
+Version: 2.0.0-1~focal1
+Architecture: amd64
+Maintainer: Ryan Vreeke <rvreeke0229@gmail.com>
+Depends: libc6 (>= 2.31), libgcc1 (>= 1:10.2.0), libstdc++6 (>= 10.2.0), libglfw3, libglfw3-dev, libfreetype6, libfreetype6-dev, libglew-dev, libxrandr-dev, doxygen, libglm-dev, devscripts, build-essential, texlive-font-utils
+Filename: ./tsgl-examples_2.0.0-1~focal1_amd64.deb
+Size: 14419956
+MD5sum: 3e0de538b9001d9aaa270598cbf60bba
+SHA1: 23173825a4c9913a7075b7e85aa16154db2375dd
+SHA256: 35a9a38e7baa8f959b3462063aa6565f51407533f3f3760030a943a3c9741817
+Section: libs
+Priority: optional
+Description: A Thread-Safe Graphics Library from https://github.com/Calvin-CS/TSGL/
+
