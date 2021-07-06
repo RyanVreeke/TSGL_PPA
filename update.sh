@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Credit to assafmo for this update.sh script file
 set -e
 set -v
 
