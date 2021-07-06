@@ -2,12 +2,12 @@ Package: tsgl
 Version: 2.0.0-1~focal1
 Architecture: amd64
 Maintainer: Ryan Vreeke <rvreeke0229@gmail.com>
-Depends: libc6 (>= 2.31), libgcc1 (>= 1:10.2.0), libstdc++6 (>= 10.2.0), libglfw3, libglfw3-dev, libfreetype6, libfreetype6-dev, libglew-dev, libxrandrdev, doxygen, libglm-dev, devscripts, build-essential, texlive-font-utils, libstb-dev
-Filename: ./tsgl.deb
+Depends: libc6 (>= 2.31), libgcc1 (>= 1:10.2.0), libstdc++6 (>= 10.2.0), libglfw3, libglfw3-dev, libfreetype6, libfreetype6-dev, libglew-dev, libxrandr-dev, doxygen, libglm-dev, devscripts, build-essential, texlive-font-utils, libstb-dev
+Filename: ./tsgl_2.0.0-1~focal1_amd64.deb
 Size: 8377216
-MD5sum: 532f84be132c2eade3b90f9b8774b3f0
-SHA1: 974c482bb978281fd5f79bd5217f4dfae7a0ef24
-SHA256: e44886a21b024c14d8e396c0d8169261b4f02841c634cf89d454d73152c2cee2
+MD5sum: f654b3cc85a91050994ea7353d9a9d1a
+SHA1: c6d5031fcc9cc6b1deda604b7fcff8cba544ac91
+SHA256: 16456f79c73016455939e4829cbe531fb00e3f51dd648e9663154b2defbf1c48
 Section: libs
 Priority: optional
 Description: A Thread-Safe Graphics Library from https://github.com/Calvin-CS/TSGL/
