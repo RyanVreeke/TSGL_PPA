@@ -1,27 +1,27 @@
 Package: tsgl
-Version: 2.0.0-1~focal1
+Version: 2.1~focal1
 Architecture: amd64
 Maintainer: Ryan Vreeke <rvreeke0229@gmail.com>
-Depends: libc6 (>= 2.31), libgcc1 (>= 1:10.2.0), libstdc++6 (>= 10.2.0), libglfw3, libglfw3-dev, libfreetype6, libfreetype6-dev, libglew-dev, libxrandr-dev, doxygen, libglm-dev, devscripts, build-essential, texlive-font-utils
-Filename: ./tsgl_2.0.0-1~focal1_amd64.deb
-Size: 8377212
-MD5sum: a17456ec718ae2adb2936e81e416b88a
-SHA1: ba51ca2d6b4eed4dcc6bb1eeae3da8cd859d0e24
-SHA256: b6815218ff9fbbb6f4d4353c3c6aa5186d15162626c308a453fdfbe860d9b971
+Depends: libc6 (>= 2.31), libgcc1 (>= 1:10.2.0), libstdc++6 (>= 10.2.0), libglfw3, libglfw3-dev, libfreetype6, libfreetype6-dev, libglew-dev, libxrandrdev, doxygen, libglm-dev, devscripts, build-essential, texlive-font-utils, libstb-dev
+Filename: ./tsgl_2.1~focal1_amd64.deb
+Size: 8325448
+MD5sum: 0f6d1b3f26b88e8e7dbb361d3def3d07
+SHA1: 94448c7191d1b05b50d9d7fd965be721ff11d14f
+SHA256: 3408ee84234f1b651a8493941c57e1f5fe71302e1b2fe92aa954168b98b0d7bb
 Section: libs
 Priority: optional
 Description: A Thread-Safe Graphics Library from https://github.com/Calvin-CS/TSGL/
 
 Package: tsgl-examples
-Version: 2.0.0-1~focal1
+Version: 2.1~focal1
 Architecture: amd64
 Maintainer: Ryan Vreeke <rvreeke0229@gmail.com>
 Depends: libc6 (>= 2.31), libgcc1 (>= 1:10.2.0), libstdc++6 (>= 10.2.0), libglfw3, libglfw3-dev, libfreetype6, libfreetype6-dev, libglew-dev, libxrandr-dev, doxygen, libglm-dev, devscripts, build-essential, texlive-font-utils
-Filename: ./tsgl-examples_2.0.0-1~focal1_amd64.deb
-Size: 5902488
-MD5sum: 0c7898270b74909d580385e0320b3b0b
-SHA1: 2432a4cae5d38bb10603c264c9cb8806aa29eb37
-SHA256: 5b7a5472c8226bcc65c5603a00977cd934bc9ddc5dddcb5595603ecc42f1c94e
+Filename: ./tsgl-examples_2.1~focal1_amd64.deb
+Size: 6338104
+MD5sum: cca70d4c3529868e6a2568760e1a72b3
+SHA1: 91c28b75580d06d119561ce733cc067bb344ef01
+SHA256: fc10cb9463589cb4904c0f6e6fa8c23cbbe23fdda37c98611287d27e3d45ba8d
 Section: libs
 Priority: optional
 Description: A Thread-Safe Graphics Library from https://github.com/Calvin-CS/TSGL/
