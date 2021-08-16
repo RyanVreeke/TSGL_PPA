@@ -18,10 +18,10 @@ Architecture: amd64
 Maintainer: Ryan Vreeke <rvreeke0229@gmail.com>
 Depends: libc6 (>= 2.31), libgcc1 (>= 1:10.2.0), libstdc++6 (>= 10.2.0), libglfw3, libglfw3-dev, libfreetype6, libfreetype6-dev, libglew-dev, libxrandr-dev, doxygen, libglm-dev, devscripts, build-essential, texlive-font-utils
 Filename: ./tsgl-examples_2.1~focal1_amd64.deb
-Size: 6338112
-MD5sum: 487374fe285e527acf2868d1ead0e1ec
-SHA1: f6adfb890e8db72772e6a2cbfce6e6562c2fda8a
-SHA256: 9be85e3ef670dff7a391bd488a474d94d8e54d62e7ad21b9eb0b236ebcfca42b
+Size: 6338104
+MD5sum: 616aa206746f777b2283613958f2c6e4
+SHA1: 5e753f4b2b42c372a44d8e1b222ce8833a9935b2
+SHA256: 8ebbae1b6d179a1f6e842d97582d71bc5ee5be3adaa603b6845a6cc6c655b274
 Section: libs
 Priority: optional
 Description: A Thread-Safe Graphics Library from https://github.com/Calvin-CS/TSGL/
