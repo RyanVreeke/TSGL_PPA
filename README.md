@@ -8,7 +8,7 @@ Calvin's TSGL PPA to host Debian Packages
 ## Install Process:
 ```
 curl -s --compressed "https://RyanVreeke.github.io/TSGL_PPA/tsgl/KEY.gpg" | sudo apt-key add -  
-sudo curl -s --compressed -o /etc/apt/sources.list.d/my_list_file.list "https://RyanVreeke.github.io/TSGL_PPA/tsgl/my_list_file.list"  
+sudo curl -s --compressed -o /etc/apt/sources.list.d/calvin-tsgl.list "https://RyanVreeke.github.io/TSGL_PPA/tsgl/calvin-tsgl.list"  
 sudo apt update  
 sudo apt install tsgl tsgl-examples
 ```
