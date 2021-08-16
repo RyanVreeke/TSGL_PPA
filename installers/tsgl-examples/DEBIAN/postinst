@@ -1,5 +1,5 @@
 #!/bin/sh
 ldconfig
 
-mv /examples ~/tsgl-examples
+mv /examples /usr/share/tsgl-examples
 
